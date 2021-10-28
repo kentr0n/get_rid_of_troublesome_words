@@ -1,0 +1,4 @@
+src/main/java/lvc/cds/TroublesomePhrases
+src/main/java/lvc/cds/file1.txt
+src/main/java/lvc/cds/file2.txt
+src/main/java/lvc/cds/file3.txt
